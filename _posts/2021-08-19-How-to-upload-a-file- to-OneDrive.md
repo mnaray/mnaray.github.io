@@ -32,6 +32,6 @@ In this portfolio, I will show you an easy way to upload your files to OneDrive.
 
     - Once you opened the folder you want to upload to, you can press the upload button (marked with yellow here) and select the file you'd like to upload.
     
-![example image 2](https://portfolio.bbbaden.ch/artefact/file/download.php?file=68148&view=20387&embedded=1&text=118777)
+![example image 2](open_file.jpg)
 
 
