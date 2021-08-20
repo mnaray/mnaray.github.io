@@ -23,7 +23,7 @@ In this portfolio, I will show you an easy way to upload your files to OneDrive.
     - Go to OneDrive and log into your account.
     - Select the place/folder you want to upload your file to.
     
-![example image 1](hochladen.png)
+![_config.yml]({{ site.baseurl }}/images/hochladen.jpg)
     
 *Click here to go to [OneDrive](https://onedrive.live.com/about/de-de/signin/) login*
 
