@@ -23,7 +23,7 @@ In this portfolio, I will show you an easy way to upload your files to OneDrive.
     - Go to OneDrive and log into your account.
     - Select the place/folder you want to upload your file to.
     
-![_config.yml](https://github.com/mnaray/mnaray.github.io/blob/master/images/hochladen.png)
+![config.yml](https://github.com/mnaray/mnaray.github.io/blob/master/images/hochladen.png)
     
 *Click here to go to [OneDrive](https://onedrive.live.com/about/de-de/signin/) login*
 
@@ -32,6 +32,6 @@ In this portfolio, I will show you an easy way to upload your files to OneDrive.
 
     - Once you opened the folder you want to upload to, you can press the upload button (marked with yellow here) and select the file you'd like to upload.
     
-![_config.yml](https://github.com/mnaray/mnaray.github.io/blob/master/images/open_file.png)
+![config.yml](https://github.com/mnaray/mnaray.github.io/blob/master/images/open_file.png)
 
 
